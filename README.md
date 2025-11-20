@@ -5,6 +5,7 @@ Imagify is a full-stack AI image generation platform where users can generate im
 This app allows users to:
 
 🔐 Sign up & Login
+<img width="722" height="499" alt="Screenshot 2025-11-20 183527" src="https://github.com/user-attachments/assets/1d2ca600-b19f-427d-9238-d4f405e56007" />
 
 ✏️ Enter a prompt and generate an AI image
 
