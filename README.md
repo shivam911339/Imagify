@@ -142,7 +142,7 @@ Razorpay
 
 📦 Installation
 1️⃣ Clone the repo:
-git clone https://github.com/your-username/imagify.git
+git clone https://github.com/shivam911339/imagify.git
 cd imagify
 
 2️⃣ Install dependencies:
