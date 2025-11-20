@@ -4,8 +4,6 @@ Imagify is a full-stack AI image generation platform where users can generate im
 
 This app allows users to:
 
-🔐 Sign up & Login
-<img width="722" height="499" alt="Screenshot 2025-11-20 183527" src="https://github.com/user-attachments/assets/1d2ca600-b19f-427d-9238-d4f405e56007" />
 
 ✏️ Enter a prompt and generate an AI image
 
@@ -176,3 +174,10 @@ Use test card:
 💬 Author
 
 Shivam Kumar Tiwari
+<img width="1895" height="929" alt="Screenshot 2025-11-20 191836" src="https://github.com/user-attachments/assets/f21ec18c-b634-42d6-b39b-6be7e6d8ffa4" />
+<img width="1919" height="968" alt="Screenshot 2025-11-20 191843" src="https://github.com/user-attachments/assets/f0d2318a-7037-4e64-a12d-7dfb1aca93c7" />
+<img width="1919" height="1069" alt="Screenshot 2025-11-20 191949" src="https://github.com/user-attachments/assets/20c557ec-b388-4ba6-a176-561745aa6684" />
+<img width="1919" height="1048" alt="Screenshot 2025-11-20 191956" src="https://github.com/user-attachments/assets/3df2560c-2398-4f03-aac5-3e7459d8ac37" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-20 192005" src="https://github.com/user-attachments/assets/bee79a9f-a970-4d3a-bb6d-bb9336cf8dcc" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-20 192015" src="https://github.com/user-attachments/assets/c9db7639-efef-4018-a09d-28f2120cf544" />
+
